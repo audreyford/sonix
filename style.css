@@ -1,0 +1,9 @@
+.ui.borderless.topmenu.menu {
+height: 100px;
+}
+
+.ui.two.column.grid {
+  box-shadow: none;
+  border: none;
+  height: 2000px;
+}
